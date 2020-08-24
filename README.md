@@ -24,9 +24,9 @@ Main Files
 Dataset
 ============================================================================================
 dataset/LaneClosure/L10130/2 s interval(including2hops)
-	- 1 close		- for one-lane closure
-	- 1,2 close 		- for two-lane closure
-	- 1,2,3 close		- for three-lane closure
+	1) 1 close		- for one-lane closure
+	2) 1,2 close 		- for two-lane closure
+	3) 1,2,3 close		- for three-lane closure
 	
 
 Remark
